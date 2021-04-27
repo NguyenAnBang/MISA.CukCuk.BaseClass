@@ -1,0 +1,36 @@
+C:\Users\nabang\Downloads\Thứ 5 22-04\MISA.CukCuk.Infrastructure\bin\Debug\netcoreapp3.1\MISA.CukCuk.Infrastructure.deps.json
+C:\Users\nabang\Downloads\Thứ 5 22-04\MISA.CukCuk.Infrastructure\bin\Debug\netcoreapp3.1\MISA.CukCuk.Infrastructure.dll
+C:\Users\nabang\Downloads\Thứ 5 22-04\MISA.CukCuk.Infrastructure\bin\Debug\netcoreapp3.1\MISA.CukCuk.Infrastructure.pdb
+C:\Users\nabang\Downloads\Thứ 5 22-04\MISA.CukCuk.Infrastructure\bin\Debug\netcoreapp3.1\MISA.CukCuk.Core.dll
+C:\Users\nabang\Downloads\Thứ 5 22-04\MISA.CukCuk.Infrastructure\bin\Debug\netcoreapp3.1\MISA.CukCuk.Core.pdb
+C:\Users\nabang\Downloads\Thứ 5 22-04\MISA.CukCuk.Infrastructure\obj\Debug\netcoreapp3.1\MISA.CukCuk.Infrastructure.csprojAssemblyReference.cache
+C:\Users\nabang\Downloads\Thứ 5 22-04\MISA.CukCuk.Infrastructure\obj\Debug\netcoreapp3.1\MISA.CukCuk.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\nabang\Downloads\Thứ 5 22-04\MISA.CukCuk.Infrastructure\obj\Debug\netcoreapp3.1\MISA.CukCuk.Infrastructure.AssemblyInfo.cs
+C:\Users\nabang\Downloads\Thứ 5 22-04\MISA.CukCuk.Infrastructure\obj\Debug\netcoreapp3.1\MISA.CukCuk.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\nabang\Downloads\Thứ 5 22-04\MISA.CukCuk.Infrastructure\obj\Debug\netcoreapp3.1\MISA.CukCuk.Infrastructure.csproj.CopyComplete
+C:\Users\nabang\Downloads\Thứ 5 22-04\MISA.CukCuk.Infrastructure\obj\Debug\netcoreapp3.1\MISA.CukCuk.Infrastructure.dll
+C:\Users\nabang\Downloads\Thứ 5 22-04\MISA.CukCuk.Infrastructure\obj\Debug\netcoreapp3.1\MISA.CukCuk.Infrastructure.pdb
+C:\Users\nabang\Downloads\Thứ 3 27-04\Thứ 3 27-04\MISA.CukCuk.Infrastructure\bin\Debug\netcoreapp3.1\MISA.CukCuk.Infrastructure.deps.json
+C:\Users\nabang\Downloads\Thứ 3 27-04\Thứ 3 27-04\MISA.CukCuk.Infrastructure\bin\Debug\netcoreapp3.1\MISA.CukCuk.Infrastructure.dll
+C:\Users\nabang\Downloads\Thứ 3 27-04\Thứ 3 27-04\MISA.CukCuk.Infrastructure\bin\Debug\netcoreapp3.1\MISA.CukCuk.Infrastructure.pdb
+C:\Users\nabang\Downloads\Thứ 3 27-04\Thứ 3 27-04\MISA.CukCuk.Infrastructure\bin\Debug\netcoreapp3.1\MISA.CukCuk.Core.dll
+C:\Users\nabang\Downloads\Thứ 3 27-04\Thứ 3 27-04\MISA.CukCuk.Infrastructure\bin\Debug\netcoreapp3.1\MISA.CukCuk.Core.pdb
+C:\Users\nabang\Downloads\Thứ 3 27-04\Thứ 3 27-04\MISA.CukCuk.Infrastructure\obj\Debug\netcoreapp3.1\MISA.CukCuk.Infrastructure.csprojAssemblyReference.cache
+C:\Users\nabang\Downloads\Thứ 3 27-04\Thứ 3 27-04\MISA.CukCuk.Infrastructure\obj\Debug\netcoreapp3.1\MISA.CukCuk.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\nabang\Downloads\Thứ 3 27-04\Thứ 3 27-04\MISA.CukCuk.Infrastructure\obj\Debug\netcoreapp3.1\MISA.CukCuk.Infrastructure.AssemblyInfo.cs
+C:\Users\nabang\Downloads\Thứ 3 27-04\Thứ 3 27-04\MISA.CukCuk.Infrastructure\obj\Debug\netcoreapp3.1\MISA.CukCuk.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\nabang\Downloads\Thứ 3 27-04\Thứ 3 27-04\MISA.CukCuk.Infrastructure\obj\Debug\netcoreapp3.1\MISA.CukCuk.Infrastructure.csproj.CopyComplete
+C:\Users\nabang\Downloads\Thứ 3 27-04\Thứ 3 27-04\MISA.CukCuk.Infrastructure\obj\Debug\netcoreapp3.1\MISA.CukCuk.Infrastructure.dll
+C:\Users\nabang\Downloads\Thứ 3 27-04\Thứ 3 27-04\MISA.CukCuk.Infrastructure\obj\Debug\netcoreapp3.1\MISA.CukCuk.Infrastructure.pdb
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\(tháng 4) 27-04\base class\MISA.CukCuk.Infrastructure\obj\Debug\netcoreapp3.1\MISA.CukCuk.Infrastructure.csprojAssemblyReference.cache
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\(tháng 4) 27-04\base class\MISA.CukCuk.Infrastructure\obj\Debug\netcoreapp3.1\MISA.CukCuk.Infrastructure.AssemblyInfoInputs.cache
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\(tháng 4) 27-04\base class\MISA.CukCuk.Infrastructure\obj\Debug\netcoreapp3.1\MISA.CukCuk.Infrastructure.AssemblyInfo.cs
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\(tháng 4) 27-04\base class\MISA.CukCuk.Infrastructure\obj\Debug\netcoreapp3.1\MISA.CukCuk.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\(tháng 4) 27-04\base class\MISA.CukCuk.Infrastructure\obj\Debug\netcoreapp3.1\MISA.CukCuk.Infrastructure.dll
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\(tháng 4) 27-04\base class\MISA.CukCuk.Infrastructure\obj\Debug\netcoreapp3.1\MISA.CukCuk.Infrastructure.pdb
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\(tháng 4) 27-04\base class\MISA.CukCuk.Infrastructure\bin\Debug\netcoreapp3.1\MISA.CukCuk.Infrastructure.deps.json
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\(tháng 4) 27-04\base class\MISA.CukCuk.Infrastructure\bin\Debug\netcoreapp3.1\MISA.CukCuk.Infrastructure.dll
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\(tháng 4) 27-04\base class\MISA.CukCuk.Infrastructure\bin\Debug\netcoreapp3.1\MISA.CukCuk.Infrastructure.pdb
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\(tháng 4) 27-04\base class\MISA.CukCuk.Infrastructure\bin\Debug\netcoreapp3.1\MISA.CukCuk.Core.dll
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\(tháng 4) 27-04\base class\MISA.CukCuk.Infrastructure\bin\Debug\netcoreapp3.1\MISA.CukCuk.Core.pdb
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\(tháng 4) 27-04\base class\MISA.CukCuk.Infrastructure\obj\Debug\netcoreapp3.1\MISA.CukCuk.Infrastructure.csproj.CopyComplete

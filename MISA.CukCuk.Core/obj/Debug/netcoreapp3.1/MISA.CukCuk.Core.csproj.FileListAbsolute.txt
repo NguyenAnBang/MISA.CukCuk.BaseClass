@@ -1,0 +1,27 @@
+C:\Users\nabang\Downloads\Thứ 5 22-04\MISA.CukCuk.Core\bin\Debug\netcoreapp3.1\MISA.CukCuk.Core.deps.json
+C:\Users\nabang\Downloads\Thứ 5 22-04\MISA.CukCuk.Core\bin\Debug\netcoreapp3.1\MISA.CukCuk.Core.dll
+C:\Users\nabang\Downloads\Thứ 5 22-04\MISA.CukCuk.Core\bin\Debug\netcoreapp3.1\MISA.CukCuk.Core.pdb
+C:\Users\nabang\Downloads\Thứ 5 22-04\MISA.CukCuk.Core\obj\Debug\netcoreapp3.1\MISA.CukCuk.Core.csprojAssemblyReference.cache
+C:\Users\nabang\Downloads\Thứ 5 22-04\MISA.CukCuk.Core\obj\Debug\netcoreapp3.1\MISA.CukCuk.Core.AssemblyInfoInputs.cache
+C:\Users\nabang\Downloads\Thứ 5 22-04\MISA.CukCuk.Core\obj\Debug\netcoreapp3.1\MISA.CukCuk.Core.AssemblyInfo.cs
+C:\Users\nabang\Downloads\Thứ 5 22-04\MISA.CukCuk.Core\obj\Debug\netcoreapp3.1\MISA.CukCuk.Core.csproj.CoreCompileInputs.cache
+C:\Users\nabang\Downloads\Thứ 5 22-04\MISA.CukCuk.Core\obj\Debug\netcoreapp3.1\MISA.CukCuk.Core.dll
+C:\Users\nabang\Downloads\Thứ 5 22-04\MISA.CukCuk.Core\obj\Debug\netcoreapp3.1\MISA.CukCuk.Core.pdb
+C:\Users\nabang\Downloads\Thứ 3 27-04\Thứ 3 27-04\MISA.CukCuk.Core\bin\Debug\netcoreapp3.1\MISA.CukCuk.Core.deps.json
+C:\Users\nabang\Downloads\Thứ 3 27-04\Thứ 3 27-04\MISA.CukCuk.Core\bin\Debug\netcoreapp3.1\MISA.CukCuk.Core.dll
+C:\Users\nabang\Downloads\Thứ 3 27-04\Thứ 3 27-04\MISA.CukCuk.Core\bin\Debug\netcoreapp3.1\MISA.CukCuk.Core.pdb
+C:\Users\nabang\Downloads\Thứ 3 27-04\Thứ 3 27-04\MISA.CukCuk.Core\obj\Debug\netcoreapp3.1\MISA.CukCuk.Core.csprojAssemblyReference.cache
+C:\Users\nabang\Downloads\Thứ 3 27-04\Thứ 3 27-04\MISA.CukCuk.Core\obj\Debug\netcoreapp3.1\MISA.CukCuk.Core.AssemblyInfoInputs.cache
+C:\Users\nabang\Downloads\Thứ 3 27-04\Thứ 3 27-04\MISA.CukCuk.Core\obj\Debug\netcoreapp3.1\MISA.CukCuk.Core.AssemblyInfo.cs
+C:\Users\nabang\Downloads\Thứ 3 27-04\Thứ 3 27-04\MISA.CukCuk.Core\obj\Debug\netcoreapp3.1\MISA.CukCuk.Core.csproj.CoreCompileInputs.cache
+C:\Users\nabang\Downloads\Thứ 3 27-04\Thứ 3 27-04\MISA.CukCuk.Core\obj\Debug\netcoreapp3.1\MISA.CukCuk.Core.dll
+C:\Users\nabang\Downloads\Thứ 3 27-04\Thứ 3 27-04\MISA.CukCuk.Core\obj\Debug\netcoreapp3.1\MISA.CukCuk.Core.pdb
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\(tháng 4) 27-04\base class\MISA.CukCuk.Core\obj\Debug\netcoreapp3.1\MISA.CukCuk.Core.csprojAssemblyReference.cache
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\(tháng 4) 27-04\base class\MISA.CukCuk.Core\obj\Debug\netcoreapp3.1\MISA.CukCuk.Core.AssemblyInfoInputs.cache
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\(tháng 4) 27-04\base class\MISA.CukCuk.Core\obj\Debug\netcoreapp3.1\MISA.CukCuk.Core.AssemblyInfo.cs
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\(tháng 4) 27-04\base class\MISA.CukCuk.Core\obj\Debug\netcoreapp3.1\MISA.CukCuk.Core.csproj.CoreCompileInputs.cache
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\(tháng 4) 27-04\base class\MISA.CukCuk.Core\obj\Debug\netcoreapp3.1\MISA.CukCuk.Core.dll
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\(tháng 4) 27-04\base class\MISA.CukCuk.Core\obj\Debug\netcoreapp3.1\MISA.CukCuk.Core.pdb
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\(tháng 4) 27-04\base class\MISA.CukCuk.Core\bin\Debug\netcoreapp3.1\MISA.CukCuk.Core.deps.json
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\(tháng 4) 27-04\base class\MISA.CukCuk.Core\bin\Debug\netcoreapp3.1\MISA.CukCuk.Core.dll
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\(tháng 4) 27-04\base class\MISA.CukCuk.Core\bin\Debug\netcoreapp3.1\MISA.CukCuk.Core.pdb
